@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">NYC Sat</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="list_index_sample">222</string>
+    <string name="list_title_sampe">Text Title Sample</string>
+    <string name="list_caption_sample">Text Caption Sample</string>
+
+    <string name="school_info">School Information</string>
+    <string name="school_name_sample">School Name Sample</string>
+    <string name="school_phone">Phone: </string>
+    <string name="phone_sample">777-777-7777</string>
+    <string name="fax_sample">777-777-7777</string>
+    <string name="email_sample">email@example.com</string>
+    <string name="website_sample">www.example.com</string>
+    <string name="school_fax">Fax: </string>
+    <string name="school_email">Email: </string>
+    <string name="school_website">Website: </string>
+    <string name="sat_avg_score">SAT Average Score</string>
+    <string name="sat_avg_num_test_taker">Num Test Taker:</string>
+    <string name="sat_avg_reading">Reading: </string>
+    <string name="sat_avg_writing">Writing: </string>
+    <string name="sat_avg_math">Math: </string>
+    <string name="avg_score_sample">111</string>
+
+    <string name="empty_state_msg">Can\'t load data. Check your network connection and try again.</string>
+    <string name="empty_state_try_again">Try again</string>
+
+    <string name="fragment_name_school_list">NYC Schools</string>
+    <string name="fragment_name_sat_info">SAT Info</string>
+    <string name="reload">Reload</string>
+
+
+
+</resources>
